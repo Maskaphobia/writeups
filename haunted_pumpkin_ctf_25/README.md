@@ -20,7 +20,7 @@
   
   For a CTF question that requires Github:
   1. <b>Find the project/user mentioned.</b> The question already mentioned it, which saves us alot of time.
-  2. <b>Check the Github commit.</b> A Github commit is a saved set of changes to a repository, represnting a snapshot of the project's state at a specific point of time. This means that there might be a possibility the author had once published the flag but deleted it. <br>
+  2. <b>Check the Github commit.</b> A Github commit is a saved set of changes to a repository, representing a snapshot of the project's state at a specific point of time. This means that there might be a possibility the author had once published the flag but deleted it. <br>
 <img width="1338" height="581" alt="image" src="https://github.com/user-attachments/assets/c67015a7-1fc8-4fc6-9d4c-1be4bb9a1af3" /> <br>
 However, in the picture, we found that theres nothing really interesting. 
 
@@ -41,7 +41,7 @@ That's it right? We just have to access it through Tor and we will get the fla..
 <b>NOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO</b>
   7. <b>Final step.</b> The question title "Dark Archives" hints us. We have already found the "Dark" part, but what about the "Archives" part? <br>
   I would have assumed it was `internet archive (wayback machine)` instead of `archive.today` but what's the difference? <br>
-* `Internat Archive` is a digital library that automatically and manually saves snapshots of webpages, books, etc. (Through crawlers)
+* `Internet Archive` is a digital library that automatically and manually saves snapshots of webpages, books, etc. (Through crawlers)
 * `archive.today` is a private snapshot tool that saves a single version of a webpage instantly and permanently <br>
 Just enter the .onion url and you got it!
 <img width="1347" height="193" alt="image" src="https://github.com/user-attachments/assets/e2ab130f-e55d-4331-a845-6fcc03800a93" />
