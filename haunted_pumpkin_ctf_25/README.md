@@ -28,7 +28,7 @@ However, in the picture, we found that theres nothing really interesting.
 <img width="673" height="342" alt="image" src="https://github.com/user-attachments/assets/9d650ce8-3921-436c-a0a2-2aa21ba92fef" /> <br>
 This leads us to find `<jackolantern.hpc7f@gmail.com>`
 
-  4. <b>Finding it on Google Calendar.</b> Since you have their email, you can see their calendar (If it's shared publicly). <br>
+  4. <b>Use tools like EPIEOS for emails, and finding it on Google Calendar.</b> Since you have their email, you can see their calendar (If it's shared publicly). <br>
 <img width="1290" height="573" alt="image" src="https://github.com/user-attachments/assets/6c43ea76-6203-43c4-aba2-da1412261afd" /> <br>
 This leads us to find `NHhtMmRsbzZrd2o1eTZjMnlqN21vcnd4Z2JmcXprM2M1djZrdHRobmJndnA3M3ZkM3lqZnEzcWQub25pb24=`
 
